@@ -32,7 +32,7 @@ class Animal{
         //instantiation for person
         p.Name="Cathy";
         p.Colour="Chocolate";
-        legs=4;
+        legs=2;
         ears=2;
 
         System.out.println("This is "+p.Name +" She is a " +p.Colour+" person with "+legs +" legs"+" and "+ ears +" ears");
